@@ -1,4 +1,4 @@
-namespace Minimalapi.DTOs;
+namespace MinimalApi.DTOs;
 public class loginDTO
 {
     public string Email { get;set;} = default!;
